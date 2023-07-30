@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### LESSON NOTES
+- Lesson 1: Introduction (But I addded more like setting up Git and application - all basics)
+- Lesson 2: Creating a React Application 
+    * Files/Parts Deleted
+        > 
+
 ## Available Scripts
 
 In the project directory, you can run:
