@@ -5,8 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### LESSON NOTES
 - Lesson 1: Introduction (But I addded more like setting up Git and application - all basics)
 - Lesson 2: Creating a React Application 
-    * Files/Parts Deleted
-        > 
+- Lesson 3: Components and Templates
+- Lesson 4: Dynamic Values in Templates
+
 
 ## Available Scripts
 
