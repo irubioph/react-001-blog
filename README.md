@@ -7,6 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Lesson 2: Creating a React Application 
 - Lesson 3: Components and Templates
 - Lesson 4: Dynamic Values in Templates
+- Lesson 5: Multiple Components
+- Lesson 6: Adding Styles
+- Lesson 7: Click Events **
 
 
 ## Available Scripts
