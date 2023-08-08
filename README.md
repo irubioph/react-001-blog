@@ -10,6 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Lesson 5: Multiple Components
 - Lesson 6: Adding Styles
 - Lesson 7: Click Events **
+- Lesson 8: Using State (useState hook)
 
 
 ## Available Scripts
