@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Lesson 4: Dynamic Values in Templates
 - Lesson 5: Multiple Components
 - Lesson 6: Adding Styles
-- Lesson 7: Click Events **
+- Lesson 7: Click Events ** (Added yarn.lock)
 
 
 ## Available Scripts
